@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Fullstack
 
-Profissional em **transição de carreira** da área de redes para o **desenvolvimento Full Stack**, com experiência sólida em redes de telecomunicações e **foco atual no desenvolvimento de software**. Tenho conhecimento prático em **HTML**, **CSS**, **JavaScript**, **Python** e **FastAPI**. Me destaco pela **resolução de problemas**, **comunicação clara**, e **aprendizado contínuo**.
+Profissional em **transição de carreira** da área de redes para o **desenvolvimento FullStack**, com experiência sólida em redes de telecomunicações e **foco atual no desenvolvimento de software**. Tenho conhecimento prático em **HTML**, **CSS**, **JavaScript**, **Python** e **FastAPI**. Me destaco pela **resolução de problemas**, **comunicação clara**, e **aprendizado contínuo**.
 
 Atualmente estou desenvolvendo projetos próprios e freelancers para consolidar minha mudança de área e aprofundar minha experiência como desenvolvedor.
 
